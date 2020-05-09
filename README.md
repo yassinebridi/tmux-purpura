@@ -1,6 +1,6 @@
 # Purpura for [tmux](https://github.com/tmux/tmux/wiki)
 
-> A [purpura](https://github.com/yassinebridi/vim-purpura) theme for [tmux](https://github.com/tmux/tmux/wiki)
+> A [purple](https://github.com/yassinebridi/tmux-purpura) theme for [tmux](https://github.com/tmux/tmux/wiki)
 
 ![Screenshot](./screenshot.png)
 
