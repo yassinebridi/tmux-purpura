@@ -4,8 +4,6 @@
 
 ![Screenshot](./screenshot.png)
 
-All the heavy work is done by [Dracula](https://github.com/dracula/tmux)
-
 A similar theme for vim is here: [vim-purpura](https://github.com/yassinebridi/vim-purpura)
 
 ## Install
